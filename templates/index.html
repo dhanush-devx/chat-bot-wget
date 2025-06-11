@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/static/chatbot.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header" onclick="toggleChat()">
+            <span>Chat Assistant</span>
+        </div>
+        <div class="chat-body" id="chatBody">
+            <div class="chat-history" id="chatHistory"></div>
+            <div class="input-container">
+                <input type="text" id="userInput" placeholder="Type your message..." 
+                       onkeypress="handleEnter(event)">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+    <script src="/static/chatbot.js"></script>
+</body>
+</html>
