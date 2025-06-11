@@ -11,8 +11,8 @@ A simple, modern floatable chatbot widget for your website, powered by Google Ge
 
 1. Clone the Repository
 
-# git clone https://github.com/yourusername/gemini-floatable-chatbot.git
-# cd gemini-floatable-chatbot
+git clone https://github.com/yourusername/gemini-floatable-chatbot.git
+cd gemini-floatable-chatbot
 
 
 2. Install Requirements
