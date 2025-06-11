@@ -35,6 +35,6 @@ Open your browser and go to http://127.0.0.1:5000/
 
 # Customization:- 
 
-Edited static/chatbot.css for styles.
-Edited static/chatbot.js for widget behavior.
-Edited app.py for backend logic.
+-- Edited static/chatbot.css for styles.
+-- Edited static/chatbot.js for widget behavior.
+-- Edited app.py for backend logic.
